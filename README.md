@@ -9,5 +9,5 @@ A simple compiler built using Python and PLY.
 - Intermediate Code Generation (TAC)
 
 ## How to Run
-pip install -r requirements.txt
+pip install -r requirements.txt<br>
 python main.py
